@@ -1,5 +1,0 @@
-package com.example.user_management_system.exception;
-
-public class InvalidAgeException extends RuntimeException(String massage){
-	super(massage);
-}
